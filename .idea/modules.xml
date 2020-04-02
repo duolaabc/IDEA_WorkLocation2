@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IDEA_WorkLocation2.iml" filepath="$PROJECT_DIR$/IDEA_WorkLocation2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWeb/JavaWeb.iml" filepath="$PROJECT_DIR$/JavaWeb/JavaWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Review the basics/Review the basics.iml" filepath="$PROJECT_DIR$/Review the basics/Review the basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x1/x1.iml" filepath="$PROJECT_DIR$/x1/x1.iml" />
+    </modules>
+  </component>
+</project>
